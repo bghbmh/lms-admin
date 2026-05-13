@@ -1,0 +1,50 @@
+import type { User } from '@/types'
+
+export const dummyUsers: User[] = [
+	{
+		id: 'user-001',
+		email: 'owner@example.com',
+		role: 'owner',
+		name: '김대표',
+		avatarUrl: undefined,
+		phone: '010-1234-5678',
+		createdAt: '2025-01-10T09:00:00+09:00',
+		lastLoginAt: '2025-04-18T10:22:00+09:00',
+	},
+	{
+		id: 'user-002',
+		email: 'lee@example.com',
+		role: 'instructor',
+		name: '이강사',
+		avatarUrl: undefined,
+		phone: '010-2345-6789',
+		createdAt: '2025-01-12T09:00:00+09:00',
+		lastLoginAt: '2025-04-17T15:00:00+09:00',
+	},
+	{
+		id: 'user-003',
+		email: 'park@example.com',
+		role: 'learner',
+		name: '박수강',
+		phone: '010-3456-7890',
+		createdAt: '2025-02-01T11:00:00+09:00',
+		lastLoginAt: '2025-04-15T09:10:00+09:00',
+	},
+	{
+		id: 'user-004',
+		email: 'choi@example.com',
+		role: 'learner',
+		name: '최학생',
+		phone: '010-4567-8901',
+		createdAt: '2025-02-10T13:00:00+09:00',
+		lastLoginAt: '2025-04-10T20:30:00+09:00',
+	},
+	{
+		id: 'user-005',
+		email: 'jung@example.com',
+		role: 'learner',
+		name: '정배움',
+		createdAt: '2025-03-05T10:00:00+09:00',
+		lastLoginAt: '2025-04-19T08:00:00+09:00',
+	},
+]
