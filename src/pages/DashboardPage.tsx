@@ -12,7 +12,7 @@ export default function DashboardPage() {
 				<p className="text-sm text-muted-foreground mt-0.5">
 					안녕하세요, 김대표님 👋
 				</p>
-				<div>branch ㅆㄸㄴㅆ ㅆㄸㄴㅆ</div>
+				<div>음... 난 뭐가 문제인거지.. 어느 부분이 이해가 안되는지도 모르곘다</div>
 			</div>
 
 			{/* 온보딩 배너 */}
