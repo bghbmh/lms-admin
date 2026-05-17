@@ -14,6 +14,7 @@ export default function DashboardPage() {
 				</p>
 				<div>음... 난 뭐가 문제인거지.. 어느 부분이 이해가 안되는지도 모르곘다</div>
 				<div>asdf asdf asdf asdf asdf asdf</div>
+				<div>stg-gio asdfasdfasdfasdfa</div>
 			</div>
 
 			{/* 온보딩 배너 */}
