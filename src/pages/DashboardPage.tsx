@@ -13,6 +13,7 @@ export default function DashboardPage() {
 					안녕하세요, 김대표님 👋
 				</p>
 				<div>음... 난 뭐가 문제인거지.. 어느 부분이 이해가 안되는지도 모르곘다</div>
+				<div>asdf asdf asdf asdf asdf asdf</div>
 			</div>
 
 			{/* 온보딩 배너 */}
