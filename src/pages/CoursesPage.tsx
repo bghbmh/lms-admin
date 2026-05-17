@@ -49,6 +49,7 @@ export default function CoursesPage() {
 			/>
 
 			<div className='flex justify-between mb-5'>
+				<div>연습용 테스트_소스트리 연습용</div>
 				<SearchFilterBar
 					className='m-0'
 					searchPlaceholder="강의명 검색..."
